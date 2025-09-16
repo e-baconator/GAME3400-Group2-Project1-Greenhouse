@@ -129,7 +129,7 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cube",
-                "value": "{\"m_Value\":{\"x\":0.11999999731779099,\"y\":0.11999999731779099,\"z\":0.11999999731779099}}"
+                "value": "{\"m_Value\":{\"x\":-0.044847965240478519,\"y\":0.12654471397399903,\"z\":-0.0818183422088623}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -149,17 +149,17 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cylinder",
-                "value": "{\"m_Value\":{\"x\":-0.2234327793121338,\"y\":0.41943925619125368,\"z\":-0.2303142547607422}}"
+                "value": "{\"m_Value\":{\"x\":-0.24401521682739259,\"y\":0.3594837188720703,\"z\":-0.43884575366973879}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cone",
-                "value": "{\"m_Value\":{\"x\":0.20000000298023225,\"y\":0.25,\"z\":0.20000000298023225}}"
+                "value": "{\"m_Value\":{\"x\":0.2818450927734375,\"y\":-0.23098206520080567,\"z\":0.2538415789604187}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Sphere",
-                "value": "{\"m_Value\":{\"x\":-0.1374329775571823,\"y\":0.16189976036548615,\"z\":0.20000721514225007}}"
+                "value": "{\"m_Value\":{\"x\":-0.0425562858581543,\"y\":0.04452371597290039,\"z\":0.05453777313232422}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
